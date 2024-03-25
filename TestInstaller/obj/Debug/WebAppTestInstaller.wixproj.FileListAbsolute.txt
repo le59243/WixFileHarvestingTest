@@ -1,0 +1,6 @@
+C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\obj\Debug\WebAppTestInstaller.wixproj.CoreCompileInputs.cache
+C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\obj\Debug\en-US\WebAppTestInstaller.msi
+C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\obj\Debug\en-US\WebAppTestInstaller.wixpdb
+C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\obj\Debug\WebAppTestInstaller.wixproj.BindTracking-en-US.txt
+C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\bin\Debug\en-US\WebAppTestInstaller.msi
+C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\bin\Debug\en-US\WebAppTestInstaller.wixpdb

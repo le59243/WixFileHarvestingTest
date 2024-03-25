@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)wixtoolset.visualstudio.wixext\5.0.0-rc.1\build\WixToolset.VisualStudio.wixext.targets" Condition="Exists('$(NuGetPackageRoot)wixtoolset.visualstudio.wixext\5.0.0-rc.1\build\WixToolset.VisualStudio.wixext.targets')" />
+    <Import Project="$(NuGetPackageRoot)wixtoolset.util.wixext\5.0.0-rc.1\build\WixToolset.Util.wixext.targets" Condition="Exists('$(NuGetPackageRoot)wixtoolset.util.wixext\5.0.0-rc.1\build\WixToolset.Util.wixext.targets')" />
+    <Import Project="$(NuGetPackageRoot)wixtoolset.ui.wixext\5.0.0-rc.1\build\WixToolset.UI.wixext.targets" Condition="Exists('$(NuGetPackageRoot)wixtoolset.ui.wixext\5.0.0-rc.1\build\WixToolset.UI.wixext.targets')" />
+    <Import Project="$(NuGetPackageRoot)wixtoolset.netfx.wixext\5.0.0-rc.1\build\WixToolset.Netfx.wixext.targets" Condition="Exists('$(NuGetPackageRoot)wixtoolset.netfx.wixext\5.0.0-rc.1\build\WixToolset.Netfx.wixext.targets')" />
+  </ImportGroup>
+</Project>

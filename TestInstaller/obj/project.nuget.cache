@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFHbRULLKIGVRAJxifDcGMIJCsXzzmPR9iblPUTd7Tw/uN6pvHg9urz6mg0shhHNioh+TMPN9V1LzNzru7OXQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\e1374077\\source\\repos\\TestInstaller\\TestInstaller\\TestInstaller.wixproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e1374077\\.nuget\\packages\\wixtoolset.netfx.wixext\\5.0.0-rc.1\\wixtoolset.netfx.wixext.5.0.0-rc.1.nupkg.sha512",
+    "C:\\Users\\e1374077\\.nuget\\packages\\wixtoolset.ui.wixext\\5.0.0-rc.1\\wixtoolset.ui.wixext.5.0.0-rc.1.nupkg.sha512",
+    "C:\\Users\\e1374077\\.nuget\\packages\\wixtoolset.util.wixext\\5.0.0-rc.1\\wixtoolset.util.wixext.5.0.0-rc.1.nupkg.sha512",
+    "C:\\Users\\e1374077\\.nuget\\packages\\wixtoolset.visualstudio.wixext\\5.0.0-rc.1\\wixtoolset.visualstudio.wixext.5.0.0-rc.1.nupkg.sha512"
+  ],
+  "logs": []
+}
