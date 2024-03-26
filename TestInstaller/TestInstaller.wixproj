@@ -1,24 +1,11 @@
 ﻿<Project Sdk="WixToolset.Sdk/5.0.0-rc.2">
-<PropertyGroup>
+	<PropertyGroup>
 		<Configuration>Debug</Configuration>
 		<Platform>x86</Platform>
 		<ProductVersion>3.10</ProductVersion>
 		<OutputName>Setup</OutputName>
 		<OutputType>Package</OutputType>
 	</PropertyGroup>
-	<PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
-		<OutputPath>bin\$(Configuration)\</OutputPath>
-		<IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
-		<DefineConstants>Debug</DefineConstants>
-	</PropertyGroup>
-	<PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
-		<OutputPath>bin\$(Configuration)\</OutputPath>
-		<IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
-	</PropertyGroup>
-	<ItemGroup>
-		<Folder Include="Driver\" />
-		<Folder Include="MachineStudioSetup\" />
-	</ItemGroup>
 	<ItemGroup>
 		<PackageReference Include="WixToolset.VisualStudio.wixext" Version="5.0.0-rc.2" />
 		<PackageReference Include="WixToolset.Util.wixext" Version="5.0.0-rc.2" />
