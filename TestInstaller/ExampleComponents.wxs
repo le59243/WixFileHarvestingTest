@@ -1,7 +1,10 @@
 <Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
   <Fragment>
     <ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
-		<Files Include=".\delivery\*"/>
+		<Files Include="delivery\**"/>
+		
+		<!--<File Source="delivery\test1.txt" />
+		<File Source="delivery\test\test2.txt" />-->
     </ComponentGroup>
   </Fragment>
 </Wix>

@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestInstaller",
+    "\\TestInstaller\\delivery",
+    "\\TestInstaller\\delivery\\test"
+  ],
+  "SelectedNode": "\\TestInstaller\\Package.wxs",
+  "PreviewInSolutionExplorer": false
+}
