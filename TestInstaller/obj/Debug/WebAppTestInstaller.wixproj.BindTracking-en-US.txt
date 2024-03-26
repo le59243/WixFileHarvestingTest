@@ -1,4 +1,0 @@
-BuiltPdbOutput	C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\obj\Debug\en-US\WebAppTestInstaller.wixpdb
-BuiltTargetOutput	C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\obj\Debug\en-US\WebAppTestInstaller.msi
-Input	C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\.\delivery\Test123.txt
-Intermediate	C:\Users\e1374077\source\repos\TestInstaller\TestInstaller\obj\Debug\en-US\#cab1.cab
